@@ -1,3 +1,3 @@
 # Button
 
-Button for RISING, FALLING, HOLD, HOLDUP
+Button Mode RISING, FALLING, HOLD, HOLDUP

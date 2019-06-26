@@ -1,0 +1,19 @@
+{
+  "name": "Button",
+  "keywords": "Button, rising, falling, hold, holdup",
+  "description": "Libary For Button Mode",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Ardisetyo/Button.git"
+  },
+  "version": "1.0.0",
+  "authors": {
+    "name": "Ardi Setyo"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr"
+  ]
+}

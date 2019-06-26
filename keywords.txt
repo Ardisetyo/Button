@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map for Button Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Button	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Rising	KEYWORD2
+Falling	KEYWORD2
+Hold	KEYWORD2
+Holdup	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+RISING	LITERAL1
+FALLING LITERAL1
+HOLD	LITERAL1
+HOLDUP	LITERAL1
